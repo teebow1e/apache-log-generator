@@ -49,7 +49,7 @@ func main() {
 
 	fmt.Println("[*] initializing data...")
 	// prepare data
-	file, err := os.Open("data/ua.txt")
+	file, err := os.Open("./data/ua.txt")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -62,7 +62,7 @@ func main() {
 		log.Fatal(err)
 	}
 
-	for _, name := range []string{"data/filenames.txt", "data/directories.txt"} {
+	for _, name := range []string{"./data/filenames.txt", "./data/directories.txt"} {
 		file, err = os.Open(name)
 		if err != nil {
 			log.Fatal(err)
@@ -83,7 +83,7 @@ func main() {
 	fmt.Println("[!] outputFile:", *outputFile)
 	timeNow := time.Now()
 
-	outFile, err := os.Create("output/" + *outputFile)
+	outFile, err := os.Create("./output/" + *outputFile)
 	if err != nil {
 		fmt.Printf("Error opening file: %s\n", err)
 		return
