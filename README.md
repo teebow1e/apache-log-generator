@@ -15,7 +15,7 @@ Usage of ./apache-log-generator:
 ```
 
 ## Todo
-- Better flag handling
-- Handle probability of random choices (for example, 200 or GET should be the most popular)
-- Refactor code
-- add support for ipv6?
+- [x] Better flag handling
+- [x] Handle probability of random choices (for example, 200 or GET should be the most popular)
+- [ ] Refactor code
+- [ ] add support for ipv6?
