@@ -94,7 +94,6 @@ func main() {
 	fmt.Println("- sleep time between 2 log entries (0 means randomized):", *sleepInterval)
 	fmt.Println()
 
-	time.Sleep(10 * time.Second)
 	timeNow := time.Now()
 
 	outFile, err := os.Create(*outputFile)
