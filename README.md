@@ -30,3 +30,8 @@ Usage of ./apache-log-generator:
 - [x] Handle probability of random choices (for example, 200 or GET should be the most popular)
 - [ ] Refactor code
 - [ ] add support for ipv6?
+
+## Credit
+- This project was inspired by [kiritbasu/Fake-Apache-Log-Generator](kiritbasu/Fake-Apache-Log-Generator).  
+- All the wordlist in `data/` is taken from [SecLists](https://github.com/danielmiessler/SecLists) by Daniel Miessler.
+- The `weightedRandom` function was inspired by Jason McVetta's [randutil](https://github.com/jmcvetta/randutil) tool.
