@@ -1,6 +1,9 @@
 # apache-log-generator
 Golang application to generate fake Apache HTTPD/NGINX log entry for analytics purpose.
 
+## Demo
+![demo](assets/demo.gif)
+
 ## Installation
 You can download the tool directly from the Release section or build from source.
 
@@ -24,6 +27,17 @@ Usage of ./apache-log-generator:
 ```
 
 > Please note that you need to for boolean flag like -ipv6, you need to specify it like this: `-ipv6=true`
+
+## Benchmark
+> This program is being tested on WSL2 with Intel Core i7-1165G7, 16gb of RAM, Golang version 1.22.0.
+1. Writing by lines
+- 1000 lines in ~0.04 secs
+- 10000 lines in ~0.2 secs
+
+2. Writing by size
+- 100 MB of logs (490k lines) in ~10s
+- 500 MB of logs (2.4m lines) in ~50s
+- 2 GB of logs (9.9m lines) in ~200s
 
 ## Todo
 - [x] Better flag handling
