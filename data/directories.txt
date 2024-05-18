@@ -1670,7 +1670,7 @@ student
 translate
 tt
 copyright
-reports list
+reportslist
 certs
 counters
 dev2
@@ -2061,7 +2061,7 @@ digital
 discussions
 en-us
 extension
-external files
+externalfiles
 foundation
 httpsdocs
 ic
@@ -3092,7 +3092,7 @@ app_master
 htmleditor
 publishingimages
 searchresults
-style library
+stylelibrary
 _pdf
 academy
 ae
@@ -4753,7 +4753,7 @@ misco
 misco_it
 missions
 mix
-modern mom
+modernmom
 modern_mom
 modifykarma
 mydownloads
@@ -4768,7 +4768,7 @@ netcabo
 netmile
 netmomsde
 netpbm
-neuf giga photo
+neufgigaphoto
 neufgiga
 newspro
 nokia
@@ -8667,7 +8667,7 @@ shopbyvehicle
 shoppingcarts
 siteelements
 wa_globals
-web references
+webreferences
 xeabdbfddaccx
 _excel
 _wuscripts
@@ -9866,7 +9866,7 @@ isapi_rewrite
 logis
 markasspam
 modelglue
-my project
+myproject
 mymail
 polybot
 portraits
@@ -11523,7 +11523,7 @@ cit-e-access
 commonpgm
 companysearch
 configfiles
-contact us
+contactus
 contentmanager
 copia
 crafts
@@ -13978,7 +13978,7 @@ didyouknow
 dinner
 disable
 distancelearning
-donate cash
+donatecash
 eichart
 ekx
 emc
@@ -14003,7 +14003,7 @@ grandchildren
 hri
 hssi
 hobbies
-home page
+homepage
 home_files
 horrorstories
 ibs
@@ -14057,10 +14057,10 @@ pagefiles
 paypalexpress
 peopleobjects
 pipes
-planned giving
+plannedgiving
 plumbingissues
-press releases
-privacy policy
+pressreleases
+privacypolicy
 productcatalogue
 publickeys
 qms
@@ -14104,7 +14104,7 @@ shop18
 shop19
 shop20
 siphon
-site map
+sitemap
 sourcetemplates
 south
 still
@@ -17896,7 +17896,7 @@ aq
 armcalc
 ashimembership
 a_master
-about us
+aboutus
 ourcompany
 abusereport
 accidentreports
@@ -17941,7 +17941,7 @@ bannerimage
 bannermodule
 beheersjablonen
 benutzerkonto
-bequest gift
+bequestgift
 bin_7_6_6_47
 bluecommerce
 bluestats
@@ -18099,7 +18099,7 @@ genoogle
 sourcegenerator
 getquote
 gezondheid
-gift form
+giftform
 globalimages
 glossaryofterms
 graphicsforosp
@@ -18176,7 +18176,7 @@ lut
 laserdisc
 layoutcontrols
 lexisnexis
-life income gift
+lifeincomegift
 linda
 loadbalancer
 local_files
@@ -18223,7 +18223,7 @@ nav_admin
 netmechanic
 netsol-files
 neuer
-new folder
+newfolder
 newconversion
 newmyaccount
 new_york
@@ -18333,7 +18333,7 @@ sharedmodules
 showall
 showing
 simpleratings
-site assets
+siteassets
 sitecrypt
 siteengine
 siteseeker
@@ -18424,7 +18424,7 @@ web_listings
 websiteimages
 wed-am-tmp
 wed-pm-tmp
-what is new
+whatisnew
 whyshop
 widgets_user
 workedwith
